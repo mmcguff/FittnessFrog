@@ -11,6 +11,7 @@ namespace FittnessFrog
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Frog");
+            Console.WriteLine("Hello Dogs");
             Console.ReadKey();
         }
     }
